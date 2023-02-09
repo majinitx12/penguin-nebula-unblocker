@@ -1,0 +1,4 @@
+npm install netlify-cli -g
+netlify functions:create
+/.netlify/functions/functions
+netlify completion:install
